@@ -1,0 +1,15 @@
+.header {
+  background: linear-gradient(135deg, #6069ff 0%, #53cbf1 100%);
+  padding: 1em;
+  color: #fff;
+}
+
+.btn {
+  padding: 0.5em 1em;
+  border: 0;
+  background: rgba(0, 0, 0, 0.2);
+  color: #fff;
+  font-size: 14px;
+  margin-right: 1em;
+  border-radius: 3px;
+}
