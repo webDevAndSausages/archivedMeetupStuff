@@ -14,7 +14,7 @@ Here we will share all the slides & demos, links to videos etc from previously a
 
 ## Volume 2
 
-### 2017-03-2 @Future Oy Office / Tampere
+### 2017-03-02 @ Future Oy Office / Tampere
 
 - [An Intro to Elixir - Mikko Ahlroth](https://docs.google.com/presentation/d/1BxPmksfgVsS7ela-jS3tYI3W2PFb08vJVFkC8vMwj5M/edit#slide=id.p)
 - [Vue.js is boring - and that's a good thing - Joonas Lehtonen](https://www.slideshare.net/secret/BjukNjY5wCAfIx)
@@ -22,7 +22,7 @@ Here we will share all the slides & demos, links to videos etc from previously a
 
 ## Volume 3
 
-### 2017-03-2 @Future Oy Office / Tampere
+### 2017-05-11 @ Vincit Oy Office / Tampere
 
 - Skip the backend completely by using Nginx + embedded Lua - Onni Hakala
 - Dive into the dark web - Juha Nurmi
