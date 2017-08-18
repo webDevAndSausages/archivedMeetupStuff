@@ -6,11 +6,11 @@
  
    [![Youtube](https://img.youtube.com/vi/QOz3mdlSr5k/mqdefault.jpg)](https://youtu.be/QOz3mdlSr5k?list=PLzTZiC7Lgr5PXKGvz8Y9xPTrLRYI5dVhx)
 
- - Uh...Yeah...Let's talk about Polymer, then... - Fabiano Brito & André Valgrande
+ - [Uh...Yeah...Let's talk about Polymer, then... - Fabiano Brito & André Valgrande](https://github.com/webDevAndSausages/archivedMeetupStuff/blob/master/2017-08-17%20%40%20Wapice%20Oy%20-%20Kampusklubi/Uh...Yeah...Let's%20talk%20about%20Polymer%2C%20then...%20-%20Fabiano%20Brito%20%26%20Andr%C3%A9%20Valgrande/Polymer1.x.pdf)
   
    [![Youtube](https://img.youtube.com/vi/4YKilvpDOFI/mqdefault.jpg)](https://youtu.be/4YKilvpDOFI?list=PLzTZiC7Lgr5PXKGvz8Y9xPTrLRYI5dVhx)
  
- - Developer Experience: Why some API's suck - Viljami Kuosmanen
+ - [Developer Experience: Why some API's suck - Viljami Kuosmanen](https://github.com/anttiviljami/why-some-apis-suck)
  
    [![Youtube](https://img.youtube.com/vi/i78KpYX9ooc/mqdefault.jpg)](https://youtu.be/i78KpYX9ooc?list=PLzTZiC7Lgr5PXKGvz8Y9xPTrLRYI5dVhx)
  
