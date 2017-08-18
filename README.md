@@ -4,17 +4,17 @@
 
  - One microservice success story - Jaakko Takaluoma
  
-   [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=32m04s)
+   [![Youtube](https://img.youtube.com/vi/QOz3mdlSr5k/mqdefault.jpg)](https://youtu.be/QOz3mdlSr5k?list=PLzTZiC7Lgr5PXKGvz8Y9xPTrLRYI5dVhx)
 
  - Uh...Yeah...Let's talk about Polymer, then... - Fabiano Brito & André Valgrande
   
-   [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=65m46s)
+   [![Youtube](https://img.youtube.com/vi/4YKilvpDOFI/mqdefault.jpg)](https://youtu.be/4YKilvpDOFI?list=PLzTZiC7Lgr5PXKGvz8Y9xPTrLRYI5dVhx)
  
  - Developer Experience: Why some API's suck - Viljami Kuosmanen
  
-   [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=99m38s)
+   [![Youtube](https://img.youtube.com/vi/i78KpYX9ooc/mqdefault.jpg)](https://youtu.be/i78KpYX9ooc?list=PLzTZiC7Lgr5PXKGvz8Y9xPTrLRYI5dVhx)
  
- - The WD&S Coder Quiz - Richard Van Camp, Mikko Matilainen & Leo Melin
+ - [The WD&S Coder Quiz - Richard Van Camp, Mikko Matilainen & Leo Melin](https://github.com/webDevAndSausages/archivedMeetupStuff/tree/master/2017-08-17%20%40%20Wapice%20Oy%20-%20Kampusklubi/Quiz)
  
    [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=134m54s)
 
