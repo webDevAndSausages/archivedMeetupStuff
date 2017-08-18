@@ -16,6 +16,6 @@
 
 8. Error code 503: 7 1/2+++
 
-9: 200 Ok: 7+
+9. 200 Ok: 7+
 
 10. Pokepallokärki: 5+
