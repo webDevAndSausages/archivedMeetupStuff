@@ -1,3 +1,24 @@
+## Volume 4
+
+### 2017-08-17 @ Wapice Oy - Kampusklubi / Tampere
+
+ - One microservice success story - Jaakko Takaluoma
+ 
+   [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=32m04s)
+
+ - Uh...Yeah...Let's talk about Polymer, then... - Fabiano Brito & André Valgrande
+  
+   [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=65m46s)
+ 
+ - Developer Experience: Why some API's suck - Viljami Kuosmanen
+ 
+   [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=99m38s)
+ 
+ - The WD&S Coder Quiz - Richard Van Camp, Mikko Matilainen & Leo Melin
+ 
+   [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=134m54s)
+
+
 ## Volume 3
 
 ### 2017-05-11 @ Vincit Oy Office / Tampere
@@ -8,7 +29,7 @@
 
  - Dive into the dark web - Juha Nurmi
  
-    *no video: dark web so dark video*
+    *no video: dark web, so dark video*
  
  - The WebAssembly Challenge - Teemu Erkkola, Jaakko Huuso, & Richard Van Camp
  
