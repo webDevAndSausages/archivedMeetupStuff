@@ -16,7 +16,7 @@
  
  - [The WD&S Coder Quiz - Richard Van Camp, Mikko Matilainen & Leo Melin](https://github.com/webDevAndSausages/archivedMeetupStuff/tree/master/2017-08-17%20%40%20Wapice%20Oy%20-%20Kampusklubi/Quiz)
  
-   [![Youtube](https://img.youtube.com/vi/scIX9onlwis/mqdefault.jpg)](https://www.youtube.com/watch?v=scIX9onlwisfeature=youtu.be#t=134m54s)
+   [![Youtube](https://img.youtube.com/vi/1n4BbAfbt5w/mqdefault.jpg)](https://youtu.be/1n4BbAfbt5w?list=PLzTZiC7Lgr5PXKGvz8Y9xPTrLRYI5dVhx)
 
 
 ## Volume 3
