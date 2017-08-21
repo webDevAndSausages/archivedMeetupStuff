@@ -2,7 +2,7 @@
 
 ### 2017-08-17 @ Wapice Oy - Kampusklubi / Tampere
 
- - One microservice success story - Jaakko Takaluoma
+ - [One microservice success story - Jaakko Takaluoma](https://github.com/webDevAndSausages/archivedMeetupStuff/blob/master/2017-08-17%20%40%20Wapice%20Oy%20-%20Kampusklubi/One%20microservice%20success%20story%20-%20Jaakko%20Takaluoma/slides.pdf)
  
    [![Youtube](https://img.youtube.com/vi/QOz3mdlSr5k/mqdefault.jpg)](https://youtu.be/QOz3mdlSr5k?list=PLzTZiC7Lgr5PXKGvz8Y9xPTrLRYI5dVhx)
 
